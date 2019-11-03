@@ -10,9 +10,9 @@ get these readings in [FHEM](https://forum.fhem.de/index.php).
 ![CSS_WemosD1_PLOT](https://github.com/juergs/CSS811_Slink/blob/master/Wemos_D1_CSS811_Plot.png)
 
 
-Mapping output to BME680-UDP-transfer-protocol: SLINK
+Mapping sketch output to BME680-UDP-transfer-protocol: SLINK
 
-<i><small>
+```
 2019-11-03 16:49:34 SLinkIAQC SLinkIAQC_633D09 BME680_temperature: 88.16
 2019-11-03 16:49:34 SLinkIAQC SLinkIAQC_633D09 BME680_rH: 0.00
 2019-11-03 16:49:34 SLinkIAQC SLinkIAQC_633D09 BME680_aH: 0.00
@@ -23,7 +23,7 @@ Mapping output to BME680-UDP-transfer-protocol: SLINK
 2019-11-03 16:49:34 SLinkIAQC SLinkIAQC_633D09 BME680_DBG_BASE_C: 1073676720
 2019-11-03 16:49:34 SLinkIAQC SLinkIAQC_633D09 BME680_DBG_FILTERED: 38
 2019-11-03 16:49:34 SLinkIAQC SLinkIAQC_633D09 BME680_DBG_RATIO: 1
-</small></i>
+```
 
 
 ![CSS_WemosD1_PLOT](https://github.com/juergs/CSS811_Slink/blob/master/Wemos_D1_CSS811_Fhem.png)
