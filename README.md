@@ -7,7 +7,7 @@ get these readings in [FHEM](https://forum.fhem.de/index.php).
 
 Using these additional modules: https://github.com/herrmannj/AirQuality/tree/master/FHEM.
 This definition will be needed with autocreate set to true:
-``
+```
 define slink slink 
 ```
 
