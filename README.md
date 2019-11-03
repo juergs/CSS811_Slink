@@ -24,3 +24,5 @@ Mapping output to BME680-UDP-transfer-protocol: SLINK
 2019-11-03 16:49:34 SLinkIAQC SLinkIAQC_633D09 BME680_DBG_FILTERED: 38
 2019-11-03 16:49:34 SLinkIAQC SLinkIAQC_633D09 BME680_DBG_RATIO: 1
 ```
+
+![CSS_WemosD1_PLOT](https://github.com/juergs/CSS811_Slink/blob/master/Wemos_D1_CSS811_Fhem.png)
