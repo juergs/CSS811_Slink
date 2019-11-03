@@ -11,6 +11,7 @@ This definition will be needed with autocreate set to true:
 define slink slink 
 ```
 No temperature - compensation via BME280 or NTC used at the moment.
+Additional hints at source code. WiFi-/IPAdress-Configuration with WiFiManager. 
 
 ![CSS_WemosD1](https://github.com/juergs/CSS811_Slink/blob/master/Wemos_D1_CSS811.png)
 
