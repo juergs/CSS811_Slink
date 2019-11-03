@@ -36,3 +36,5 @@ Mapping sketch output to BME680-UDP-transfer-protocol: SLINK
 
 
 ![CSS_WemosD1_PLOT](https://github.com/juergs/CSS811_Slink/blob/master/Wemos_D1_CSS811_Fhem.png)
+
+With use of: https://github.com/denyssene/SimpleKalmanFilter
